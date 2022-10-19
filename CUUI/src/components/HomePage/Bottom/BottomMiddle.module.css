@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Lobster&family=Oswald&family=Quintessential&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Lobster&family=Oswald&family=Quintessential&display=swap');
+.content{
+    background-color: black;
+    color: rgb(255, 255, 255);
+    border-radius: 10px;
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    margin: 0px 20px 20px 20px;
+}
+.icons{
+    margin-top: 1vw;
+    margin-left: 2.3vw;
+    background-color: white;
+    width: 3vw;
+    border-radius: 10px;
+
+}
+.content p{
+    font-family: 'Quintessential', cursive;
+    margin: 1vw 0vw 0vw 2vw;
+    font-size: 1.5vw;
+}
+.content ul{
+    margin-top: 2vw;
+    list-style-type: none;
+}
+.content ul li{
+    margin: 0.5vw 0vw 0vw 0vw;
+    font-family: 'Oswald', sans-serif;
+    font-size: 1.2vw;
+}
+.contentali{
+    margin-top: 1vw;
+    margin-left: 5vw;
+}
+.icons img{
+    width: 3vw;
+}
+.appleicon{
+    width: 10vw;
+}
+.googleicon{
+    width: 10vw;
+}

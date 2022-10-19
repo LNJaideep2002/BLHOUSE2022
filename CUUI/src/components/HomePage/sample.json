@@ -1,0 +1,12 @@
+{
+    "data":[
+        {"id":"1","name":"Designer Ladies Blouse- Nagina Collection","price":"800","rating":"4.5","image":"1.png"},
+        {"id":"2","name":"Designer Ladies Blouse- Nagina Collection","price":"800","rating":"4.5","image":"2.png"},
+        {"id":"3","name":"Designer Ladies Blouse- Nagina Collection","price":"800","rating":"4.5","image":"3.png"},
+        {"id":"4","name":"Designer Ladies Blouse- Nagina Collection","price":"800","rating":"4.5","image":"4.png"},
+        {"id":"5","name":"Designer Ladies Blouse- Nagina Collection","price":"800","rating":"4.5","image":"5.png"},
+        {"id":"6","name":"Designer Ladies Blouse- Nagina Collection","price":"800","rating":"4.5","image":"6.png"},
+        {"id":"7","name":"Designer Ladies Blouse- Nagina Collection","price":"800","rating":"4.5","image":"7.png"},
+        {"id":"8","name":"Designer Ladies Blouse- Nagina Collection","price":"800","rating":"4.5","image":"8.png"} 
+    ]
+}

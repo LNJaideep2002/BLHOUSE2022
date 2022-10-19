@@ -1,0 +1,56 @@
+.icon{
+    width: 1vw;
+    margin: 0.2vw 0.5vw 0.5vw 0vw;
+}
+.order{
+    background-color: white;
+    border: 2px solid black;
+    height: 8vw;
+    margin-bottom: 1vw;
+}
+.notfound{
+    font-family: 'Anton', sans-serif;
+    margin: 2vw 0vw 2vw 10vw;
+    font-size: 2vw;
+}
+.card{
+    background-color: white;
+    border: 2px solid black;
+    margin: 1vw 1vw 1vw 1vw;
+}
+.outer{
+    padding: 1vw 1vw 1vw 1vw;
+    border:2px solid black;
+    width: 35vw;
+    border-radius: 10px;
+    margin: 1vw 0vw 3vw 32vw;
+    background-color: rgb(187, 184, 184);
+}
+.name{
+    font-family: 'Lobster', cursive;
+    font-size: 2vw;
+    margin: 1vw 0vw 0vw 1.5vw;
+}
+.date{
+    margin-top: 1vw;
+    margin-left: 2vw;
+    font-family: 'Oswald', sans-serif;
+    font-size: 1.2vw;
+    float: left;
+}
+.price{
+    font-family: 'Oswald', sans-serif;
+    font-size: 1.5vw;
+    margin: 0.5vw 0vw 0vw 8vw;
+    float: left;
+}
+.head{
+    font-size: 2vw;
+    margin: 1vw 0vw 1vw 12vw;
+    font-family: 'Lobster', cursive;
+}
+.button{
+    background-color: black;
+    color: white;
+    margin: 0.6vw 0vw 0vw 4vw;
+}

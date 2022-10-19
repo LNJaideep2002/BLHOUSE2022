@@ -1,0 +1,83 @@
+.outer{
+    background-color: rgb(182, 182, 182);
+    margin: 2vw 0vw 3.5vw 18vw;
+    width: 65vw;
+    border-radius: 20px;
+    padding-bottom: 0.1vw;
+}
+.link{
+    text-decoration: none;
+    color: black;
+}
+
+.head{
+    font-family: 'Lobster', cursive;
+    font-size: 2.5vw;
+    margin: 1vw 0vw 2vw 0vw;
+    position: relative;
+    top: 1vw;
+    left: 9vw;
+}.card{
+    display: grid;
+    grid-template-columns: 40% 50% 10%;
+    background-color: white;
+    border: 2px solid black;
+    margin: 1vw 1vw 1vw 1vw;
+}
+.img{
+    width: 15vw;
+    height: fit-content;
+    margin-left: 25%;
+    margin-top: 10%;
+}
+.button{
+    background-color: black;
+    border: none;
+    color: white;
+}
+.heart{
+    margin: 1vw 0vw 0vw 2vw;
+    width: 2.5vw;
+    border: 0px;
+    background-color: white;
+}
+.bag{
+    font-size: 1.2vw;
+    margin: 1vw 0vw 1vw 0vw;
+    padding: 0.2vw 0.2vw 0.2vw 0.4vw;
+}
+.delete{
+    width: 3vw;
+    margin: 0vw 0vw 0vw 3vw;
+    position: relative;
+    top: -0.2vw;
+}
+.name{
+    font-family: 'Lobster', cursive;
+    font-size: 1.5vw;
+    margin: 1vw 0vw 1vw 0vw;
+}
+.cprice{
+    font-family: 'Anton', sans-serif;
+    margin: 0vw 0vw 0vw 1vw;
+    font-size: 2vw;
+} 
+.oprice{
+    font-family: 'Anton', sans-serif;
+    font-size: 1.5vw;
+    position: relative;
+    top: -0.2vw;
+    color: gray;
+} 
+.offer
+{
+    margin: 0vw 0vw 0vw 0.6vw;
+    color: #07e81a;
+    position: relative;
+    top: -0.2vw;
+    font-size: 1.7vw;
+}
+.content{
+    font-family: 'Anton', sans-serif;
+    font-size: 1vw;
+}

@@ -1,0 +1,3 @@
+1.In api folder there is file called server.js which sends and accept api
+2. CUUI folder is responsible customer UI.
+3. COUI folder is responsible company UI.

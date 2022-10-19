@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Lobster&family=Oswald&family=Quintessential&display=swap');
+
+.icons{
+    width: 4vw;
+    
+}
+.iconsbar{
+    background-color: rgb(0, 0, 0);
+    border-radius: 10px;
+    margin: -30px 20px 20px 20px;
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+}
+.icon{
+    color: white;
+}
+.cash{
+    margin-left: 20vw;
+    margin-top: 0.5vw;
+}
+.secure{
+    margin-left: 16vw;
+    margin-top: 0.5vw;
+}
+.quality{
+    margin-left: 15vw;
+    margin-top: 0.5vw;
+}
+.icon p{
+    font-family: 'Quintessential', cursive;
+    margin-left: -1.4vw;
+}
+.size{
+    margin-top: 0.5vw;
+    width: 3.7vw;
+}

@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300&display=swap');
+.outer{
+    border:2px solid black;
+    width: 35vw;
+    border-radius: 10px;
+    margin: 1vw 0vw 3vw 32vw;
+    background-color: rgb(187, 184, 184);
+}
+.value{
+    display: grid;
+    grid-template-columns: 40% 60%;
+    margin-bottom: 2vw;
+    margin-top: 1vw;
+}
+.label{
+    font-family: 'Lobster', cursive;
+    margin-left: 4vw;
+    margin-top: 0.5vw;
+    font-size: 2vw;
+}
+.input
+{
+    width: 16vw;
+    height: 2.5vw;
+    margin: 0.6vw 0vw 0vw -2vw;
+    background-color: rgb(255, 255, 255);
+    border: none;
+    border-bottom: 1px solid black;
+    font-size: 2vw;
+    font-family: 'Oswald', sans-serif;
+    color: black;
+}
+.input:focus{
+     border: none;
+    border-bottom: 1px solid black;
+}
+.head{
+    font-size: 2vw;
+    margin: 2vw 0vw 1vw 12vw;
+    font-family: 'Lobster', cursive;
+}
+.button{
+    background-color: black;
+    color: white;
+    font-family: 'Oswald', sans-serif;
+    font-size: 1.5vw;
+    border-radius: 10px;
+}
+.inputc{
+    border: 2px solid black;
+    background-color: white;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+}
+.outer1{
+    background-color: white;
+    margin: 0vw 2vw 2vw 2vw;
+    padding-top: 0.01vw;
+}
+.success{
+        color: rgb(0, 255, 0);
+    font-family: 'Merriweather Sans', sans-serif;
+    font-size: 1.8vw;
+    margin: -1vw 0vw 1vw 8vw;
+}

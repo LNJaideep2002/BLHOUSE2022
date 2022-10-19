@@ -1,0 +1,39 @@
+.cartmaincard{
+     display: grid;
+    grid-template-columns: 40% 52% 8%;
+    background-color: white;
+    border: 2px solid black;
+    margin: 1vw 1vw 1vw 1vw;
+    height: 14vw;
+}
+.cartimg{
+      width: 12vw;
+    margin: 0.2vw 0vw 0vw 3vw;
+    height: 12vw;
+    
+}
+.name{
+    font-family: 'Lobster', cursive;
+    font-size: 1.5vw;
+    margin: 1vw 0vw 1vw 0vw;
+}
+.cprice{
+    font-family: 'Anton', sans-serif;
+    margin: 0vw 0vw 0vw 1vw;
+    font-size: 1.5vw;
+} 
+.oprice{
+    font-family: 'Anton', sans-serif;
+    font-size: 1vw;
+    position: relative;
+    top: -0.2vw;
+    color: gray;
+} 
+.offer
+{
+    margin: 0vw 0vw 0vw 0.6vw;
+    color: #07e81a;
+    position: relative;
+    top: -0.2vw;
+    font-size: 1.3vw;
+}

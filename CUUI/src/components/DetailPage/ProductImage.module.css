@@ -1,0 +1,24 @@
+.img{
+    width: 16vw;
+    height: 15.5vw;
+    border: 2px solid black;
+    margin: 1.1vw 0vw 0vw 2vw;
+}
+.imgButton{
+    width: 3.5vw;
+    height: 3vw;
+    border: none;
+}
+.button{
+    margin: 2vw 0vw 2vw -1.5vw;
+}
+.button button{
+    margin-left: 5vw;
+}
+.outerimg{
+    background-color: white;
+    margin: 3vw 0vw 0vw 5vw;
+    width: 20vw;
+    height: 18vw;
+    border-radius: 20px;
+}

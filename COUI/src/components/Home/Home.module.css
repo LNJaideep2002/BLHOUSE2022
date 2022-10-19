@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Quintessential&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Lobster&family=Oswald&family=Quintessential&display=swap');
+
+body{
+    background-color: rgb(165, 165, 165);
+}
+.search{
+    background-color: rgb(0, 0, 0);
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5vw;
+    width: fit-content;
+    height: 5vw;
+    border-radius: 10px;
+}
+.outer{
+    background-color: rgb(255, 255, 255);
+    margin: 2vw 0vw 3.5vw 20vw;
+    width: 60vw;
+    border-radius: 20px;
+    padding-bottom: 0.1vw;
+}
+.order{
+    color: white;
+    float: left;
+    font-size: 2vw;
+     font-family: 'Lobster', cursive;
+     margin: 1vw 0vw 1vw 2.5vw;
+}
+.input{
+    background-color: rgb(255, 255, 255);
+    height: 2.5vw;
+    width: 25vw;
+    margin: 1.1vw 1.5vw 0vw 1vw;
+    font-size: 1.5vw;
+    padding-left: 0.5vw;
+    font-family: 'Anton', sans-serif;
+}
+.button{
+    margin: 0vw 1vw 0vw 0vw;
+    position: relative;
+    top: 0.8vw;
+    background-color: rgb(0, 0, 0);
+    border: none;
+    cursor:pointer;
+}
+.icon{
+    width: 3vw;
+}
+.bag{
+    display: grid;
+    grid-template-columns: 33% 33% 33%;
+}
+.baghead{
+     font-size: 1.3vw;
+     margin-top: 1vw;
+    font-family: 'Anton', sans-serif;
+}
+.cartmaincard{
+    background-color: white;
+    border: 2px solid black;
+    margin: 1vw 1vw 1vw 1vw;
+    height: 14vw;
+}
+.img{
+      width: 18vw;
+    margin: 0.2vw 3vw 0vw 3vw;
+    height: 12vw;
+    
+}
+.imgmaincard{
+     background-color: white;
+    border: 2px solid black;
+    margin: 1vw 1vw 1vw 16vw;
+    height: 14vw;
+    width: fit-content;
+}
+.notfound{
+     font-family: 'Anton', sans-serif;
+     font-size: 2vw;
+    margin:1vw 0vw 3vw 24vw;
+    position: relative;
+    top: 1.5vw;
+}

@@ -1,0 +1,47 @@
+.outer{
+    background-color: rgb(182, 182, 182);
+    margin: 2vw 0vw 3.5vw 27vw;
+    width: 50vw;
+    border-radius: 20px;
+    padding-bottom: 0.1vw;
+}
+.head{
+    font-family: 'Lobster', cursive;
+    font-size: 2.5vw;
+    margin: 1vw 0vw 2vw 16vw;
+    position: relative;
+    top: 1vw;
+}
+.notfound{
+    font-family: 'Anton', sans-serif;
+    margin: 2vw 0vw 2vw 16vw;
+    font-size: 2vw;
+}
+.card{
+    background-color: white;
+    border: 2px solid black;
+    margin: 1vw 1vw 1vw 1vw;
+}
+.button{
+    background-color: black;
+    color: white;
+    font-size: 1.2vw;
+    margin: 0vw 0vw 0.7vw 17vw;
+}
+.label{
+    color: black;
+    float: left;
+    margin: 0.5vw 0vw 0vw 10vw;
+    font-family: 'Anton', sans-serif;
+}
+.input{
+    margin: 0.2vw 0vw 0vw 1vw;
+    font-family: 'Anton', sans-serif;
+}
+.butsub{
+   
+    background-color: black;
+    color: white;
+    margin: 1vw 0vw 1vw 0vw;
+    font-size: 1.1vw;
+}
